@@ -6,7 +6,10 @@
     <e p="C:\Users\ps380\Desktop\CodeLab1\Codelab1-20190-Class5\Codelab1-2019-Class5" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="level0.txt" t="Include" />
+        <e p="myHighScore.txt" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="AsciiLevelLoader.cs" t="Include" />
           <e p="HighScoreManager.cs" t="Include" />
         </e>
       </e>
